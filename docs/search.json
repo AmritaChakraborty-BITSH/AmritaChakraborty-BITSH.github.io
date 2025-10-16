@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
     "section": "",
-    "text": "The electronic properties of materials undergo remarkable transformations at the nanoscale. Metallic nanoparticles exhibit enhanced light–matter interactions through localized surface plasmon resonances, while atomically precise nanoclusters composed of a defined number of atoms display discrete, molecule-like optoelectronic characteristics. Integrating metallic, nonmetallic, and soft nanosystems into well-defined colloidal assemblies offers a powerful approach to engineer functional nanomaterials for multimodal applications. Our research aims to design and synthesize novel nanostructures through controlled nanoscale chemistry and to probe their behavior at the single-particle level using advanced spectroscopic techniques. We further seek to harness the emergent physicochemical properties of these nanostructures for applications in biosensing and molecular diagnostics."
+    "text": "Team\n\n\nPI\n\n\n\n\n\n\n\nAmrita Chakraborty\nAssistant Professor\nPostdoctoral researcher: Texas A&M University, USA (Advisor: Prof. Saranya Pullanchery)\nPh.D.: Indian Institute of Technology Madras (Advisor: Prof. Thalappil Pradeep)\nBSc.-MSc.: Jadavpur University, India"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "team.html#team",
+    "href": "team.html#team",
+    "title": "",
     "section": "",
-    "text": "Research will go here. . ."
+    "text": "PI\n\n\n\n\n\n\n\nAssistant Professor\nPostdoctoral researcher: Texas A&M University, USA (Advisor: Prof. Saranya Pullanchery)\nPh.D.: Indian Institute of Technology Madras (Advisor: Prof. Thalappil Pradeep)\nBSc.-MSc.: Jadavpur University, India"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -21,60 +21,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Publication",
-    "section": "",
-    "text": "Publication\n\n\n\n\n\n\nThe Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers\nAmrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link\nAdv. Optical Mater 2025\nDOI: 10.1002/adom.202403002\nRead the Paper\n\n\n\n\n\n\n\n\nMorphology-Preserved Alloying in Anisotropic Gold Nanoparticles Using Atomically Precise Nanoclusters\nAmrita Chakraborty, Sujan Manna, Biswajit Mondal, Mohammad Bodiuzzaman, Ankit Nagar, Soham Chowdhury, Tanmayaa Nayak, Nonappa, and Thalappil Pradeep\nSmall 2025\nDOI: 10.1002/smll.202410784\nRead the Paper\n\n\n\n\n\n\n\n\nTunable reactivity of silver nanoclusters: a facile route to synthesize a range of bimetallic nanostructures\nAmrita Chakraborty, Megha Maria Stanley, Biswajit Mondal, Nonappa, Md Bodiuzzaman, Papri Chakraborty, M. P. Kannan and Thalappil Pradeep\nNanoscale 2023\nDOI: 10.1039/D2NR06350F\nRead the Paper\n\n\n\n\n\n\n\n\nAtomically precise nanocluster assemblies encapsulating plasmonic gold nanorods\nAmrita Chakraborty, Ann Candice Fernandez, Anirban Som, Biswajit Mondal, Ganapati Natarajan, Ganesan Paramasivam, Tanja Lahtinen, Hannu H¨akkinen, Nonappa, and Thalappil Pradeep\nAngew. Chem. Int. Ed.\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nNear-infrared chiral plasmonic microwires through precision assembly of gold nanorods on soft biotemplates\nAmrita Chakraborty, Nonappa, Biswajit Mondal, Kamalesh Chaudhari, Heikki Rekola, Ville Hynninen, Mauri Kostiainen, Robin Ras and Thalappil Pradeep\nJ. Phys. Chem. C\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nShell-Isolated Assembly of Atomically Precise Nanoclusters on Gold Nanorods for Integrated Plasmonic-Luminescent Nanocomposites\nAmrita Chakraborty, Harsh Dave, Biswajit Mondal, Esma Khatun, and Thalappil Pradeep\nJ. Phys. Chem. B\nDOI: 10.1021/acs.jpcb.1c10207\nRead the Paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching will go here. . ."
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Team will go here. . ."
-  },
-  {
     "objectID": "outreach.html",
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
     "text": "Outreach will go here. . ."
-  },
-  {
-    "objectID": "collaborators.html",
-    "href": "collaborators.html",
-    "title": "Collaborators",
-    "section": "",
-    "text": "Collaborators\n\nIt has been an honor to collaborate with leading researchers and experts in the field.\n\n\n\n\nStephan Link\nCharles W. and Genevieve M. Walton Endowed Professor of Chemistry, and Professor of Chemistry\n\n\n\nChristy F. Landes\nJerry A. Walker Endowed Chair in Chemistry, and Professor of Chemistry\n\n\n\nPeter J. A. Nordlander\nWiess Chair and Professor, Physics and Astronomy Professor, Electrical and Computer Engineering Professor, Materials Science and NanoEngineering Member, Ken Kennedy Institute\n\n\n\nAlessandro Alabastri\nAssistant Professor, Electrical and Computer Engineering Director, Applied Physics Graduate Program Member, Ken Kennedy Institute\n\n\n\nZhenpeng Qin\nAssociate Professor - Mechanical Engineering, UT Dallas\n\n\n\nSaranya Pullanchery\nAssistant Professor, Texas A&M University\n\n\n\nNonappa\nAssociate Professor, Material Chemistry, specifically Nanochemistry, Tampere University\n\n\n\nHannu Häkkinen\nProfessor, Vice Dean- University of Jyväskylä\n\n\n\nTim Liedl\nChair of Experimental Physics - Soft Condensed Matter, LMU Munich\n\n\n\nRobin Ras\nProfessor, Department of Applied Physics Head of Department, Department of Applied Physics Professor, Soft Matter and Wetting Aalto University\n\n\n\nMauri Kostiainen\nProfessor, Department of Bioproducts and Biosystems Professor, Biohybrid Materials Aalto University"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV (October, 2025)",
-    "section": "",
-    "text": "CV (October, 2025)"
   },
   {
     "objectID": "cv_1.html",
@@ -133,59 +84,52 @@
     "text": "SEMINARS/CONFERENCES/WORKSHOPS ATTENDED\nPoster Presentations\n\n“Morphological evaluation of bioaerosols with compositional complexity”, University of Texas System Postdoctoral Symposium, USA (2024)\n“Single Particle Chirality Studies of DNA-templated Gold Nanorod Dimers”, GRC on Noble Metal Nanoparticles, USA (2022)\n“Atomically Precise Nanocluster Assemblies Encapsulating Plasmonic Gold Nanorods”, GRC on Noble Metal Nanoparticles, USA (2019) & ICONSAT, India (2018)\n“Systematic Self-Assembly of Ag44 Clusters on Reconstructed Gold Nanorod Surface”, International Symposium on Monolayer-Protected Clusters, Switzerland (2017)\n\nOral Presentation\n\n“Noble metal nanocomposites: Advanced materials for catalysis” (Awarded Best Oral Talk), Virtual National Conference on Materials for Energy Harvesting and Catalysis (2020)"
   },
   {
-    "objectID": "cv_2.html",
-    "href": "cv_2.html",
-    "title": "",
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Collaborators",
     "section": "",
-    "text": "&lt;h1&gt;Hello, I'm Abhishek&lt;br/&gt;Saha, Ph.D.&lt;/h1&gt;\n\n&lt;p class=\"role\"&gt;Assistant Professor&lt;/p&gt;\n&lt;p&gt;Department of Chemistry&lt;/p&gt;\n\n&lt;p&gt;\n  Birla Institute of Technology &amp; Science, Pilani&lt;br/&gt;\n  (BITS Pilani) | Hyderabad Campus | India\n&lt;/p&gt;\n\n&lt;div class=\"hero-links\"&gt;\n  &lt;p&gt;BITS website:&lt;/p&gt;\n  &lt;p&gt;\n    &lt;a href=\"https://www.bits-pilani.ac.in/hyderabad/dr-abhishek-saha/\" target=\"_blank\" rel=\"noopener\"&gt;\n      https://www.bits-pilani.ac.in/hyderabad/dr-abhishek-saha/\n    &lt;/a&gt;\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;img src=\"/images/Cv_image.png\" alt=\"Three small glass bottles with blue, red and yellow dye in water\"/&gt;"
+    "text": "Collaborators\n\nIt has been an honor to collaborate with leading researchers and experts in the field.\n\n\n\n\nStephan Link\nCharles W. and Genevieve M. Walton Endowed Professor of Chemistry, and Professor of Chemistry\n\n\n\nChristy F. Landes\nJerry A. Walker Endowed Chair in Chemistry, and Professor of Chemistry\n\n\n\nPeter J. A. Nordlander\nWiess Chair and Professor, Physics and Astronomy Professor, Electrical and Computer Engineering Professor, Materials Science and NanoEngineering Member, Ken Kennedy Institute\n\n\n\nAlessandro Alabastri\nAssistant Professor, Electrical and Computer Engineering Director, Applied Physics Graduate Program Member, Ken Kennedy Institute\n\n\n\nZhenpeng Qin\nAssociate Professor - Mechanical Engineering, UT Dallas\n\n\n\nSaranya Pullanchery\nAssistant Professor, Texas A&M University\n\n\n\nNonappa\nAssociate Professor, Material Chemistry, specifically Nanochemistry, Tampere University\n\n\n\nHannu Häkkinen\nProfessor, Vice Dean- University of Jyväskylä\n\n\n\nTim Liedl\nChair of Experimental Physics - Soft Condensed Matter, LMU Munich\n\n\n\nRobin Ras\nProfessor, Department of Applied Physics Head of Department, Department of Applied Physics Professor, Soft Matter and Wetting Aalto University\n\n\n\nMauri Kostiainen\nProfessor, Department of Bioproducts and Biosystems Professor, Biohybrid Materials Aalto University"
   },
   {
-    "objectID": "cv_2.html#research-interests",
-    "href": "cv_2.html#research-interests",
-    "title": "",
-    "section": "RESEARCH INTERESTS",
-    "text": "RESEARCH INTERESTS\nMy primary research interest focuses on creating nanostructures with intriguing physicochemical properties through chemical interactions between nanoparticles of varying sizes, and examining their potential for diverse applications. This includes the synthesis of anisotropic noble metal nanoparticles and atomically precise nanoclusters, their systematic assembly, and the investigation of structural chirality for ultrasensitive biomarker detection. My current research investigates the molecular organization of interfaces and the mechanism of ion transport through lipid membranes using nonlinear optical spectroscopy."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   },
   {
-    "objectID": "cv_2.html#professional-experience",
-    "href": "cv_2.html#professional-experience",
-    "title": "",
-    "section": "PROFESSIONAL EXPERIENCE",
-    "text": "PROFESSIONAL EXPERIENCE\nPostdoctoral Scholar\nInterface Science Lab, Department of Chemistry, Texas A&M University, Texas, USA (2025 - Present)\nAdvisor: Prof. Saranya Pullanchery\nPostdoctoral Scholar\nNanobiengineering Lab, Department of Mechanical Engineering, University of Texas at Dallas, Texas, USA (2023 - 2024)\nAdvisor: Prof. Zhenpeng Qin\nPostdoctoral Scholar\nDepartment of Chemistry, Rice University, Texas, USA (2021 - 2023)\nAdvisor: Prof. Stephan Link"
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV (October, 2025)",
+    "section": "",
+    "text": "CV (October, 2025)"
   },
   {
-    "objectID": "cv_2.html#education",
-    "href": "cv_2.html#education",
-    "title": "",
-    "section": "EDUCATION",
-    "text": "EDUCATION\nPh.D., Chemistry\nIndian Institute of Technology Madras, Chennai, India (2015 - 2021)\nThesis: Chemical Interactions Between Nanoscale Systems: Novel Structures and Emerging Properties\nAdvisor: Prof. Thalappil Pradeep\nM.Sc., Chemistry\nJadavpur University, Kolkata, India (2013 - 2015)\nAdvisor: Prof. Nitin Chattopadhyay\nB.Sc., Chemistry\nJadavpur University, Kolkata, India (2009 - 2013)"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "The electronic properties of materials undergo remarkable transformations at the nanoscale. Metallic nanoparticles exhibit enhanced light–matter interactions through localized surface plasmon resonances, while atomically precise nanoclusters composed of a defined number of atoms display discrete, molecule-like optoelectronic characteristics. Integrating metallic, nonmetallic, and soft nanosystems into well-defined colloidal assemblies offers a powerful approach to engineer functional nanomaterials for multimodal applications. Our research aims to design and synthesize novel nanostructures through controlled nanoscale chemistry and to probe their behavior at the single-particle level using advanced spectroscopic techniques. We further seek to harness the emergent physicochemical properties of these nanostructures for applications in biosensing and molecular diagnostics."
   },
   {
-    "objectID": "cv_2.html#fellowships-awards-grants",
-    "href": "cv_2.html#fellowships-awards-grants",
-    "title": "",
-    "section": "FELLOWSHIPS, AWARDS, & GRANTS",
-    "text": "FELLOWSHIPS, AWARDS, & GRANTS\n\nProvost’s Office Postdoctoral Appreciation Award, University of Texas at Dallas (2024)\nInstitute Research Award, IIT Madras (2021)\nBest Oral Talk Award, Virtual National Conference on Materials for Energy Harvesting and Catalysis (2020)\nBest Poster Award, Chemistry In-House Symposium (CHIS-2018), IIT Madras (2018)\nCSIR UGC NET Fellowship for doctoral research (All India Rank 74) (2015-2020)\nIndira Gandhi Single Girl Child Scholarship, Govt. of India (2013-2015)\nINSPIRE Scholarship, Department of Science and Technology, Govt. of India (2010-2015)"
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "cv_2.html#teaching-mentoring",
-    "href": "cv_2.html#teaching-mentoring",
-    "title": "",
-    "section": "TEACHING & MENTORING",
-    "text": "TEACHING & MENTORING\nTeaching Experience\n\nGuest Lecture on “Optical properties of materials: Fluorescence and Chirality”, University of Texas at Dallas (2024)\nGraduate Teaching Assistant for “Quantum Mechanics” and “Lab-based Experimental Chemistry”, IIT Madras (2016-2017)\n\nMentoring Experience\n\nMentored Anabela Meier (Masters’ student, Texas A&M University) for 2025 summer research program\nMentored a group of high school students for ‘PACE Research program for minors’, UT Dallas (2023-2024)\nMentored Alison Carroll (REU student, Rice University, Summer 2022), who won a best poster award\nMentored summer interns at IIT Madras (Megha Maria Stanley, 2020; Harsh Dave, 2019), leading to co-authored publications"
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "Publication\n\n\n\n\n\n\nThe Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers\nAmrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link\nAdv. Optical Mater 2025\nDOI: 10.1002/adom.202403002\nRead the Paper\n\n\n\n\n\n\n\n\nMorphology-Preserved Alloying in Anisotropic Gold Nanoparticles Using Atomically Precise Nanoclusters\nAmrita Chakraborty, Sujan Manna, Biswajit Mondal, Mohammad Bodiuzzaman, Ankit Nagar, Soham Chowdhury, Tanmayaa Nayak, Nonappa, and Thalappil Pradeep\nSmall 2025\nDOI: 10.1002/smll.202410784\nRead the Paper\n\n\n\n\n\n\n\n\nTunable reactivity of silver nanoclusters: a facile route to synthesize a range of bimetallic nanostructures\nAmrita Chakraborty, Megha Maria Stanley, Biswajit Mondal, Nonappa, Md Bodiuzzaman, Papri Chakraborty, M. P. Kannan and Thalappil Pradeep\nNanoscale 2023\nDOI: 10.1039/D2NR06350F\nRead the Paper\n\n\n\n\n\n\n\n\nAtomically precise nanocluster assemblies encapsulating plasmonic gold nanorods\nAmrita Chakraborty, Ann Candice Fernandez, Anirban Som, Biswajit Mondal, Ganapati Natarajan, Ganesan Paramasivam, Tanja Lahtinen, Hannu H¨akkinen, Nonappa, and Thalappil Pradeep\nAngew. Chem. Int. Ed.\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nNear-infrared chiral plasmonic microwires through precision assembly of gold nanorods on soft biotemplates\nAmrita Chakraborty, Nonappa, Biswajit Mondal, Kamalesh Chaudhari, Heikki Rekola, Ville Hynninen, Mauri Kostiainen, Robin Ras and Thalappil Pradeep\nJ. Phys. Chem. C\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nShell-Isolated Assembly of Atomically Precise Nanoclusters on Gold Nanorods for Integrated Plasmonic-Luminescent Nanocomposites\nAmrita Chakraborty, Harsh Dave, Biswajit Mondal, Esma Khatun, and Thalappil Pradeep\nJ. Phys. Chem. B\nDOI: 10.1021/acs.jpcb.1c10207\nRead the Paper"
   },
   {
-    "objectID": "cv_2.html#articles-reviewed",
-    "href": "cv_2.html#articles-reviewed",
-    "title": "",
-    "section": "ARTICLES REVIEWED",
-    "text": "ARTICLES REVIEWED\n\nReview activity for Advanced Materials (I.F. 27.4)\nReview activity for Laser and Photonics Reviews (I.F. 9.8)\nReview activity for Open Chemistry (I.F. 2.3)"
-  },
-  {
-    "objectID": "cv_2.html#seminarsconferencesworkshops-attended",
-    "href": "cv_2.html#seminarsconferencesworkshops-attended",
-    "title": "",
-    "section": "SEMINARS/CONFERENCES/WORKSHOPS ATTENDED",
-    "text": "SEMINARS/CONFERENCES/WORKSHOPS ATTENDED\nPoster Presentations\n\n“Morphological evaluation of bioaerosols with compositional complexity”, University of Texas System Postdoctoral Symposium, USA (2024)\n“Single Particle Chirality Studies of DNA-templated Gold Nanorod Dimers”, GRC on Noble Metal Nanoparticles, USA (2022)\n“Atomically Precise Nanocluster Assemblies Encapsulating Plasmonic Gold Nanorods”, GRC on Noble Metal Nanoparticles, USA (2019) & ICONSAT, India (2018)\n“Systematic Self-Assembly of Ag44 Clusters on Reconstructed Gold Nanorod Surface”, International Symposium on Monolayer-Protected Clusters, Switzerland (2017)\n\nOral Presentation\n\n“Noble metal nanocomposites: Advanced materials for catalysis” (Awarded Best Oral Talk), Virtual National Conference on Materials for Energy Harvesting and Catalysis (2020)"
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching will go here. . ."
   }
 ]

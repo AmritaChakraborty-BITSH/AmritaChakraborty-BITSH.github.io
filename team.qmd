@@ -1,10 +1,38 @@
 ---
-title: "Team"
 format:
   html:
     theme:
       light: flatly
       dark: darkly
     css: styles.css
+    toc: false
+    page-layout: article
 ---
-Team will go here. . . 
+
+::: page-header
+# Team
+:::
+
+::: team-heading
+PI
+:::
+
+---
+
+::::: person-card
+::: person-photo
+![](images/profile.jfif){alt="Photo"}
+:::
+
+::: person-text
+### Amrita Chakraborty
+
+**Assistant Professor**
+
+Postdoctoral researcher: Texas A&M University, USA (Advisor: Prof. Saranya Pullanchery)
+
+Ph.D.: Indian Institute of Technology Madras (Advisor: Prof. Thalappil Pradeep)
+
+BSc.-MSc.: Jadavpur University, India
+:::
+:::::
