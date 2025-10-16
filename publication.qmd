@@ -1,0 +1,30 @@
+---
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+---
+::: page-header
+# Publication
+:::
+
+<div class="publication-item">
+<div class="pub-image">
+![](images/pub_1.webp){width=200px}
+</div>
+<div class="pub-content">
+**The Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers**
+
+Amrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link  
+*Adv. Optical Mater 2025*
+
+***DOI: 10.1002/adom.202403002***  
+
+[Read the Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403002){.button}
+</div>
+</div>
+
+<br>

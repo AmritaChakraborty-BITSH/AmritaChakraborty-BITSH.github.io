@@ -1,0 +1,118 @@
+---
+format: 
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    page-layout: full
+    css: collab.css
+    toc: false
+---
+::: page-header
+# Collaborators
+:::
+
+It has been an honor to collaborate with leading researchers and experts in the field.
+
+::::::::::::::: collaborator-grid
+<!-- To add a new collaborator, copy one of these blocks -->
+
+::: {.g-col .collaborator-card}
+![](/images/co_1.jpg){fig-alt="Alt text for Image 1"}
+
+[Stephan Link](https://chemistry.illinois.edu/directory/profile/slink)
+
+Charles W. and Genevieve M. Walton Endowed Professor of Chemistry, and Professor of Chemistry
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_2.jpg){fig-alt="Alt text for Image 1"}
+
+[Christy F. Landes](https://chemistry.illinois.edu/directory/profile/cflandes)
+
+Jerry A. Walker Endowed Chair in Chemistry, and Professor of Chemistry
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_3.webp){fig-alt="Alt text for Image 1"}
+
+[Peter J. A. Nordlander](https://profiles.rice.edu/faculty/peter-j-nordlander)
+
+Wiess Chair and Professor, Physics and Astronomy
+Professor, Electrical and Computer Engineering
+Professor, Materials Science and NanoEngineering
+Member, Ken Kennedy Institute
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_4.jpg){fig-alt="Alt text for Image 1"}
+
+[Alessandro Alabastri](https://profiles.rice.edu/faculty/alessandro-alabastri)
+
+Assistant Professor, Electrical and Computer Engineering
+Director, Applied Physics Graduate Program
+Member, Ken Kennedy Institute
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_5.jpg){fig-alt="Alt text for Image 1"}
+
+[Zhenpeng Qin](https://profiles.utdallas.edu/zhenpeng.qin)
+
+Associate Professor - Mechanical Engineering, UT Dallas
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_6.jpg){fig-alt="Alt text for Image 1"}
+
+[Saranya Pullanchery](https://artsci.tamu.edu/chemistry/contact/profiles/saranya-pullanchery.html)
+
+Assistant Professor, Texas A&M University
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_7.jpeg){fig-alt="Alt text for Image 1"}
+
+[Nonappa](https://www.tuni.fi/en/people/nonappa)
+
+Associate Professor, Material Chemistry, specifically Nanochemistry, Tampere University
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/Co_8.webp){fig-alt="Alt text for Image 1"}
+
+[Hannu Häkkinen](https://www.jyu.fi/en/people/hannu-hakkinen)
+
+Professor, Vice Dean- University of Jyväskylä
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_9.jpg){fig-alt="Alt text for Image 1"}
+
+[Tim Liedl](https://www.physik.lmu.de/softmatter/en/people/contact-page/tim-liedl-ca5583df.html)
+
+Chair of Experimental Physics - Soft Condensed Matter, LMU Munich
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_10.jpg){fig-alt="Alt text for Image 1"}
+
+[Robin Ras](https://research.aalto.fi/en/persons/robin-ras)
+
+Professor, Department of Applied Physics
+Head of Department, Department of Applied Physics
+Professor, Soft Matter and Wetting
+Aalto University
+:::
+
+::: {.g-col .collaborator-card}
+![](/images/co_11.webp){fig-alt="Alt text for Image 1"}
+
+[Mauri Kostiainen](https://research.aalto.fi/en/persons/mauri-kostiainen)
+
+Professor, Department of Bioproducts and Biosystems
+Professor, Biohybrid Materials
+Aalto University
+:::
+
+:::::::::::::::

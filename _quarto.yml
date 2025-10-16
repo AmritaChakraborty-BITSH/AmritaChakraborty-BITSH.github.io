@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: "https://AmritaChakraborty.github.io/"
+  repo-url: "https://github.com/AmritaChakraborty/AmritaChakraborty.github.io"
+  
+  page-footer:
+    left: "© 2025. All rights reserved."
+  
+  navbar:
+    background: "#003153"   # Texas A&M maroon
+    foreground: "white"     # Navbar text color
+    collapse: true
+    
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "Publication"
+        file: publication.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Collaborators"
+        file: collaborators.qmd
+      - text: "Team"
+        file: team.qmd
+      - text: "Outreach"
+        file: outreach.qmd
+      - text: "CV"
+        file: cv.qmd
+        
+    right:
+      - icon: linkedin
+        href: "https://linkedin.com/in/amrita-chakraborty-b69b5aa4/"
+        aria-label: LinkedIn
+      - icon: envelope
+        href: "mailto:amritarimic@gmail.com"
+        aria-label: Email
+      - icon: magnifying-glass
+        aria-label: Search
+        
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    
+    toc: true
+    toc-location: right
+    page-layout: article
+    link-external-newwindow: true
+    theme-toggle: true
+    ##mainfont: "Lora"
+    ##heading-font: "Playfair Display"
+
+execute:
+  freeze: auto
+
+editor: visual
+
+
+

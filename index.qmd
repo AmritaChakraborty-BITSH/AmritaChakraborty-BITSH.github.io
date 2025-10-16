@@ -1,0 +1,13 @@
+---
+title: "About"
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    include-after-body: _footer.html
+about:
+  template: jolla
+---
+The electronic properties of materials undergo remarkable transformations at the nanoscale. Metallic nanoparticles exhibit enhanced light–matter interactions through localized surface plasmon resonances, while atomically precise nanoclusters composed of a defined number of atoms display discrete, molecule-like optoelectronic characteristics. Integrating metallic, nonmetallic, and soft nanosystems into well-defined colloidal assemblies offers a powerful approach to engineer functional nanomaterials for multimodal applications. Our research aims to design and synthesize novel nanostructures through controlled nanoscale chemistry and to probe their behavior at the single-particle level using advanced spectroscopic techniques. We further seek to harness the emergent physicochemical properties of these nanostructures for applications in biosensing and molecular diagnostics.
