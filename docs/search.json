@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "The electronic properties of materials undergo remarkable transformations at the nanoscale. Metallic nanoparticles exhibit enhanced light–matter interactions through localized surface plasmon resonances, while atomically precise nanoclusters composed of a defined number of atoms display discrete, molecule-like optoelectronic characteristics. Integrating metallic, nonmetallic, and soft nanosystems into well-defined colloidal assemblies offers a powerful approach to engineer functional nanomaterials for multimodal applications. Our research aims to design and synthesize novel nanostructures through controlled nanoscale chemistry and to probe their behavior at the single-particle level using advanced spectroscopic techniques. We further seek to harness the emergent physicochemical properties of these nanostructures for applications in biosensing and molecular diagnostics."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research will go here. . ."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "Publication\n\n\n\n\n\n\nThe Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers\nAmrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link\nAdv. Optical Mater 2025\nDOI: 10.1002/adom.202403002\nRead the Paper"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching will go here. . ."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Team will go here. . ."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "Outreach will go here. . ."
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "Collaborators\n\nIt has been an honor to collaborate with leading researchers and experts in the field.\n\n\n\n\nStephan Link\nCharles W. and Genevieve M. Walton Endowed Professor of Chemistry, and Professor of Chemistry\n\n\n\nChristy F. Landes\nJerry A. Walker Endowed Chair in Chemistry, and Professor of Chemistry\n\n\n\nPeter J. A. Nordlander\nWiess Chair and Professor, Physics and Astronomy Professor, Electrical and Computer Engineering Professor, Materials Science and NanoEngineering Member, Ken Kennedy Institute\n\n\n\nAlessandro Alabastri\nAssistant Professor, Electrical and Computer Engineering Director, Applied Physics Graduate Program Member, Ken Kennedy Institute\n\n\n\nZhenpeng Qin\nAssociate Professor - Mechanical Engineering, UT Dallas\n\n\n\nSaranya Pullanchery\nAssistant Professor, Texas A&M University\n\n\n\nNonappa\nAssociate Professor, Material Chemistry, specifically Nanochemistry, Tampere University\n\n\n\nHannu Häkkinen\nProfessor, Vice Dean- University of Jyväskylä\n\n\n\nTim Liedl\nChair of Experimental Physics - Soft Condensed Matter, LMU Munich\n\n\n\nRobin Ras\nProfessor, Department of Applied Physics Head of Department, Department of Applied Physics Professor, Soft Matter and Wetting Aalto University\n\n\n\nMauri Kostiainen\nProfessor, Department of Bioproducts and Biosystems Professor, Biohybrid Materials Aalto University"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV (October, 2025)",
+    "section": "",
+    "text": "CV (October, 2025)"
+  }
+]
