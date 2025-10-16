@@ -13,17 +13,119 @@ format:
 
 <div class="publication-item">
 <div class="pub-image">
-![](images/pub_1.webp){width=200px}
+![](images/pub_1.png){width=200px}
 </div>
 <div class="pub-content">
 **The Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers**
 
 Amrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link  
+
 *Adv. Optical Mater 2025*
 
 ***DOI: 10.1002/adom.202403002***  
 
 [Read the Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202403002){.button}
+</div>
+</div>
+
+<br>
+
+
+<div class="publication-item">
+<div class="pub-image">
+![](images/pub_2.png){width=200px}
+</div>
+<div class="pub-content">
+**Morphology-Preserved Alloying in Anisotropic Gold Nanoparticles Using Atomically Precise Nanoclusters**
+
+Amrita Chakraborty, Sujan Manna, Biswajit Mondal, Mohammad Bodiuzzaman, Ankit Nagar, Soham Chowdhury, Tanmayaa Nayak, Nonappa, and Thalappil Pradeep 
+ 
+*Small 2025*
+
+***DOI: 10.1002/smll.202410784***  
+
+[Read the Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202410784){.button}
+</div>
+</div>
+
+<br>
+
+
+<div class="publication-item">
+<div class="pub-image">
+![](images/pub_3.png){width=200px}
+</div>
+<div class="pub-content">
+**Tunable reactivity of silver nanoclusters: a facile route to synthesize a range of bimetallic nanostructures**
+
+Amrita Chakraborty, Megha Maria Stanley, Biswajit Mondal, Nonappa, Md Bodiuzzaman, Papri Chakraborty, M. P. Kannan and Thalappil Pradeep
+
+*Nanoscale 2023*
+
+***DOI: 10.1039/D2NR06350F***  
+
+[Read the Paper](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d2nr06350f){.button}
+</div>
+</div>
+
+<br>
+
+
+<div class="publication-item">
+<div class="pub-image">
+![](images/pub_4.png){width=200px}
+</div>
+<div class="pub-content">
+**Atomically precise nanocluster assemblies encapsulating plasmonic gold nanorods**
+
+Amrita Chakraborty, Ann Candice Fernandez, Anirban Som, Biswajit Mondal, Ganapati Natarajan, Ganesan Paramasivam, Tanja Lahtinen, Hannu H¨akkinen, Nonappa, and Thalappil Pradeep
+
+*Angew. Chem. Int. Ed.*
+
+***DOI: 10.1002/anie.201802420***  
+
+[Read the Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201802420){.button}
+</div>
+</div>
+
+<br>
+
+
+<div class="publication-item">
+<div class="pub-image">
+![](images/pub_5.gif){width=200px}
+</div>
+<div class="pub-content">
+**Near-infrared chiral plasmonic microwires through precision assembly of gold nanorods on soft biotemplates**
+
+Amrita Chakraborty, Nonappa, Biswajit Mondal, Kamalesh Chaudhari, Heikki Rekola, Ville Hynninen, Mauri Kostiainen, Robin Ras and Thalappil Pradeep
+
+*J. Phys. Chem. C*
+
+***DOI: 10.1002/anie.201802420***  
+
+[Read the Paper](https://www.academia.edu/81988031/Near_Infrared_Chiral_Plasmonic_Microwires_through_Precision_Assembly_of_Gold_Nanorods_on_Soft_Biotemplates){.button}
+</div>
+</div>
+
+<br>
+
+
+
+<div class="publication-item">
+<div class="pub-image">
+![](images/pub_6.gif){width=200px}
+</div>
+<div class="pub-content">
+**Shell-Isolated Assembly of Atomically Precise Nanoclusters on Gold Nanorods for Integrated Plasmonic-Luminescent Nanocomposites**
+
+Amrita Chakraborty, Harsh Dave, Biswajit Mondal, Esma Khatun, and Thalappil Pradeep
+
+*J. Phys. Chem. B*
+
+***DOI: 10.1021/acs.jpcb.1c10207***  
+
+[Read the Paper](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c10207){.button}
 </div>
 </div>
 

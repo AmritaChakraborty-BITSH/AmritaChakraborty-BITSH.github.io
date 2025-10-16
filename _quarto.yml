@@ -21,8 +21,6 @@ website:
         file: research.qmd
       - text: "Publication"
         file: publication.qmd
-      - text: "Teaching"
-        file: teaching.qmd
       - text: "Collaborators"
         file: collaborators.qmd
       - text: "Team"
@@ -30,7 +28,7 @@ website:
       - text: "Outreach"
         file: outreach.qmd
       - text: "CV"
-        file: cv.qmd
+        file: cv_1.qmd
         
     right:
       - icon: linkedin
