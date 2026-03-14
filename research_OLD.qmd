@@ -1,0 +1,30 @@
+---
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    page-layout: full
+---
+
+::: page-header
+# RESEARCH
+:::
+
+::: page-screen
+```{=html}
+<iframe src="hexagons.html" style="
+    position: fixed;
+    top: 10; left: 0;
+    width: 100vw; height: 80vh;
+    border: none;
+    margin: 0; padding: 0;
+    overflow: hidden;
+    z-index: 0;
+  ">
+```
+
+</iframe>
+:::

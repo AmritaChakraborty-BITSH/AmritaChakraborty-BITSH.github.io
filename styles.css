@@ -574,3 +574,180 @@ body .container {
   70% { box-shadow: 0 0 0 10px rgba(217, 83, 79, 0); }
   100% { box-shadow: 0 0 0 0px rgba(217, 83, 79, 0); }
 }
+
+
+/* =========================================
+   Teaching & Course Styles
+   ========================================= */
+.course-item {
+    padding: 1.5rem;
+    border-left: 4px solid #004b87; 
+    background: #f8f9fa;
+    margin-bottom: 1.5rem;
+    border-radius: 0 8px 8px 0;
+    transition: all 0.2s ease;
+}
+
+.course-item:hover {
+    background: #ffffff;
+    box-shadow: 2px 4px 12px rgba(0,0,0,0.05);
+    transform: translateX(5px);
+}
+
+.course-code {
+    font-family: 'Monaco', 'Courier New', monospace;
+    font-weight: 700;
+    color: #d9534f;
+    margin-right: 8px;
+}
+
+.semester-tag {
+    font-size: 0.8rem;
+    background: #e9ecef;
+    padding: 4px 10px;
+    border-radius: 12px;
+    color: #495057;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+
+
+/* --- Footer Alignment Fix --- */
+
+/* 1. Make the footer a Flexbox container */
+div.nav-footer {
+    display: flex !important;
+    align-items: center !important; /* Vertically centers Left, Center, and Right */
+    justify-content: space-between !important;
+}
+
+/* 2. Left & Right: Take equal width to force Center to true middle */
+div.nav-footer-left,
+div.nav-footer-right {
+    flex: 1;
+    display: flex;
+    align-items: center; /* Vertical center internal content */
+}
+
+/* 3. Center: Only takes necessary space */
+div.nav-footer-center {
+    flex: 0 0 auto;
+    text-align: center;
+}
+
+/* 4. Force Right section to align to the far right */
+div.nav-footer-right {
+    justify-content: flex-end; /* Pushes content to the right edge */
+    text-align: right;
+}
+
+/* 5. Fix for links in footer to stand out */
+div.nav-footer a {
+    color: white !important;
+    text-decoration: none;
+}
+div.nav-footer a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+/* =========================================
+   Scientific Profile Banner Layout
+   ========================================= */
+.profile-banner {
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    overflow: hidden; /* Keeps the rounded corners clean */
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.banner-text-section {
+    flex: 1 1 40%; /* Takes up 40% of the width */
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #f2ce1b; /* Vibrant yellow from your screenshot */
+}
+
+.banner-image-section {
+    flex: 1 1 60%; /* Takes up 60% of the width for the wide diagram */
+    display: flex;
+    background-color: #1a2238; /* Matches the dark blue edges of your diagram */
+}
+
+.banner-image-section img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* CRITICAL: Ensures no text/labels in the diagram are cut off */
+    display: block;
+}
+
+/* =========================================
+   Typography & Social Buttons (Darkened for Yellow BG)
+   ========================================= */
+.prof-name {
+    color: #004b87; 
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 2.2rem;
+}
+
+.prof-details {
+    font-size: 1.1rem;
+    color: #2c3e50; /* Darker text for readability on yellow */
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+}
+
+.website-link {
+    font-weight: 600;
+    margin-bottom: 2rem;
+    color: #004b87;
+}
+
+.website-link a {
+    color: #004b87;
+    text-decoration: underline;
+}
+
+.social-btn-modern {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    background-color: transparent; 
+    color: #004b87 !important;
+    border: 2px solid #004b87;
+    border-radius: 8px; /* Slightly squared to match the screenshot style */
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+.social-btn-modern:hover {
+    background-color: #004b87;
+    color: #ffffff !important;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px rgba(0, 75, 135, 0.3);
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 900px) {
+    .banner-text-section, .banner-image-section {
+        flex: 1 1 100%;
+    }
+    .banner-text-section {
+        padding: 2rem;
+    }
+}

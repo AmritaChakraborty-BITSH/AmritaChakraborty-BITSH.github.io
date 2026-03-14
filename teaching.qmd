@@ -1,5 +1,27 @@
 ---
-title: "teaching"
-format: html
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
 ---
 
+::: page-header
+# TEACHING
+:::
+
+## Current academic responsibilities and courses delivered.
+
+::: course-item
+### [CHEM G552]{.course-code} Advanced Inorganic Chemistry
+
+<br> [Second Semester 2025-2026]{.semester-tag}
+:::
+
+::: course-item
+### [CHEM F111]{.course-code} General Chemistry
+
+<br> [Second Semester 2025-2026]{.semester-tag}
+:::

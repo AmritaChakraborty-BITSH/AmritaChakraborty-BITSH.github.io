@@ -9,7 +9,7 @@ format:
 ---
 
 ::: page-header
-# Publication
+# PUBLICATION
 :::
 
 ::::: publication-item
