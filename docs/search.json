@@ -7,39 +7,53 @@
     "text": "Team\n\n\nPI\n\n\n\n\n\n\n\nAmrita Chakraborty\nAssistant Professor\nPostdoctoral researcher: Texas A&M University, USA (Advisor: Prof. Saranya Pullanchery)\nPh.D.: Indian Institute of Technology Madras (Advisor: Prof. Thalappil Pradeep)\nBSc.-MSc.: Jadavpur University, India"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "research_OLD.html",
+    "href": "research_OLD.html",
     "title": "RESEARCH",
     "section": "",
-    "text": "RESEARCH\n\n\n\n\n    \n\n        \n            Thrust areas\n        \n\n        \n            Nanocluster assembly and reaction\n        \n\n        \n            Scattering-based biosensing\n        \n\n        \n            Chemical tuning of chiral nanomaterials\n        \n\n        \n            Interface-specific non-linear spectroscopy\n        \n\n    \n\n\n\n    \n        ×"
+    "text": "RESEARCH"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "PUBLICATION",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "PUBLICATION\n\n\n\n\n\n\nThe Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers\nAmrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link\nAdv. Optical Mater 2025\nDOI: 10.1002/adom.202403002\nRead the Paper\n\n\n\n\n\n\n\n\nMorphology-Preserved Alloying in Anisotropic Gold Nanoparticles Using Atomically Precise Nanoclusters\nAmrita Chakraborty, Sujan Manna, Biswajit Mondal, Mohammad Bodiuzzaman, Ankit Nagar, Soham Chowdhury, Tanmayaa Nayak, Nonappa, and Thalappil Pradeep\nSmall 2025\nDOI: 10.1002/smll.202410784\nRead the Paper\n\n\n\n\n\n\n\n\nTunable reactivity of silver nanoclusters: a facile route to synthesize a range of bimetallic nanostructures\nAmrita Chakraborty, Megha Maria Stanley, Biswajit Mondal, Nonappa, Md Bodiuzzaman, Papri Chakraborty, M. P. Kannan and Thalappil Pradeep\nNanoscale 2023\nDOI: 10.1039/D2NR06350F\nRead the Paper\n\n\n\n\n\n\n\n\nAtomically precise nanocluster assemblies encapsulating plasmonic gold nanorods\nAmrita Chakraborty, Ann Candice Fernandez, Anirban Som, Biswajit Mondal, Ganapati Natarajan, Ganesan Paramasivam, Tanja Lahtinen, Hannu H¨akkinen, Nonappa, and Thalappil Pradeep\nAngew. Chem. Int. Ed.\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nNear-infrared chiral plasmonic microwires through precision assembly of gold nanorods on soft biotemplates\nAmrita Chakraborty, Nonappa, Biswajit Mondal, Kamalesh Chaudhari, Heikki Rekola, Ville Hynninen, Mauri Kostiainen, Robin Ras and Thalappil Pradeep\nJ. Phys. Chem. C\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nShell-Isolated Assembly of Atomically Precise Nanoclusters on Gold Nanorods for Integrated Plasmonic-Luminescent Nanocomposites\nAmrita Chakraborty, Harsh Dave, Biswajit Mondal, Esma Khatun, and Thalappil Pradeep\nJ. Phys. Chem. B\nDOI: 10.1021/acs.jpcb.1c10207\nRead the Paper"
   },
   {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "OPPORTUNITIES",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "We are inviting applications for two fully funded PhD positions under the Joint PhD Program between BITS Pilani, India, and RMIT University, Australia. If you are passionate about material science and nanotechnology and want to shape solutions with global impact, we encourage you to apply."
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "opportunities.html#what-these-positions-offer",
-    "href": "opportunities.html#what-these-positions-offer",
-    "title": "OPPORTUNITIES",
-    "section": "What These Positions Offer",
-    "text": "What These Positions Offer\n\nProgram HighlightsResearch & Infrastructure\n\n\n\nJoint PhD Award: From both BITS Pilani and RMIT University.\nFinancial Support: Full tuition scholarships (RMIT), highly subsidized fees (BITS), and a stipend with health cover.\nGlobal Experience: Start at BITS and spend up to a year in Australia with return airfare included.\n\n\n\n\nSupervision: Co-supervision from faculty at both institutions.\nFacilities: Access to world-class research infrastructure.\nImpact: Aligned with RMIT’s impact-driven platforms across STEM and non-STEM domains.\nStructure: Clear 4-year progression with coursework and milestones."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "The electronic properties of materials undergo remarkable transformations at the nanoscale. Metallic nanoparticles exhibit enhanced light–matter interactions through localized surface plasmon resonances, while atomically precise nanoclusters composed of a defined number of atoms display discrete, molecule-like optoelectronic characteristics. Integrating metallic, nonmetallic, and soft nanosystems into well-defined colloidal assemblies offers a powerful approach to engineer functional nanomaterials for multimodal applications. Our research aims to design and synthesize novel nanostructures through controlled nanoscale chemistry and to probe their behavior at the single-particle level using advanced spectroscopic techniques. We further seek to harness the emergent physicochemical properties of these nanostructures for applications in biosensing and molecular diagnostics."
   },
   {
-    "objectID": "opportunities.html#application-details",
-    "href": "opportunities.html#application-details",
-    "title": "OPPORTUNITIES",
-    "section": "Application Details",
-    "text": "Application Details\n\n\n\n\n\n\nWarning\n\n\n\nLast date to Apply: March 28, 2026\nPlease ensure all documents are submitted before the cutoff to be considered for these positions.\n\n\n\nMore information and application link: Click here\nSearch with respective Project ID and title: Click here"
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV (October, 2025)",
+    "section": "",
+    "text": "CV (October, 2025)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "Collaborators\n\nIt has been an honor to collaborate with leading researchers and experts in the field.\n\n\n\n\nStephan Link\nCharles W. and Genevieve M. Walton Endowed Professor of Chemistry, and Professor of Chemistry\n\n\n\nChristy F. Landes\nJerry A. Walker Endowed Chair in Chemistry, and Professor of Chemistry\n\n\n\nPeter J. A. Nordlander\nWiess Chair and Professor, Physics and Astronomy Professor, Electrical and Computer Engineering Professor, Materials Science and NanoEngineering Member, Ken Kennedy Institute\n\n\n\nAlessandro Alabastri\nAssistant Professor, Electrical and Computer Engineering Director, Applied Physics Graduate Program Member, Ken Kennedy Institute\n\n\n\nZhenpeng Qin\nAssociate Professor - Mechanical Engineering, UT Dallas\n\n\n\nSaranya Pullanchery\nAssistant Professor, Texas A&M University\n\n\n\nNonappa\nAssociate Professor, Material Chemistry, specifically Nanochemistry, Tampere University\n\n\n\nHannu Häkkinen\nProfessor, Vice Dean- University of Jyväskylä\n\n\n\nTim Liedl\nChair of Experimental Physics - Soft Condensed Matter, LMU Munich\n\n\n\nRobin Ras\nProfessor, Department of Applied Physics Head of Department, Department of Applied Physics Professor, Soft Matter and Wetting Aalto University\n\n\n\nMauri Kostiainen\nProfessor, Department of Bioproducts and Biosystems Professor, Biohybrid Materials Aalto University"
   },
   {
     "objectID": "cv_1.html",
@@ -47,6 +61,13 @@
     "title": "",
     "section": "",
     "text": "Assistant Professor Department of Chemistry Birla Institute of Technology & Science, Pilani (BITS Pilani) | Hyderabad Campus | India\n\n\nBITS website: Click here"
+  },
+  {
+    "objectID": "cv_1.html#prof.-amrita-chakraborty-ph.d.",
+    "href": "cv_1.html#prof.-amrita-chakraborty-ph.d.",
+    "title": "",
+    "section": "",
+    "text": "Assistant Professor Department of Chemistry Birla Institute of Technology & Science, Pilani (BITS Pilani) | Hyderabad Campus | India"
   },
   {
     "objectID": "cv_1.html#research-interests",
@@ -98,53 +119,39 @@
     "text": "SEMINARS/CONFERENCES/WORKSHOPS ATTENDED\nPoster Presentations\n\n“Morphological evaluation of bioaerosols with compositional complexity”, University of Texas System Postdoctoral Symposium, USA (2024)\n“Single Particle Chirality Studies of DNA-templated Gold Nanorod Dimers”, GRC on Noble Metal Nanoparticles, USA (2022)\n“Atomically Precise Nanocluster Assemblies Encapsulating Plasmonic Gold Nanorods”, GRC on Noble Metal Nanoparticles, USA (2019) & ICONSAT, India (2018)\n“Systematic Self-Assembly of Ag44 Clusters on Reconstructed Gold Nanorod Surface”, International Symposium on Monolayer-Protected Clusters, Switzerland (2017)\n\nOral Presentation\n\n“Noble metal nanocomposites: Advanced materials for catalysis” (Awarded Best Oral Talk), Virtual National Conference on Materials for Energy Harvesting and Catalysis (2020)"
   },
   {
-    "objectID": "collaborators.html",
-    "href": "collaborators.html",
-    "title": "Collaborators",
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "OPPORTUNITIES",
     "section": "",
-    "text": "Collaborators\n\nIt has been an honor to collaborate with leading researchers and experts in the field.\n\n\n\n\nStephan Link\nCharles W. and Genevieve M. Walton Endowed Professor of Chemistry, and Professor of Chemistry\n\n\n\nChristy F. Landes\nJerry A. Walker Endowed Chair in Chemistry, and Professor of Chemistry\n\n\n\nPeter J. A. Nordlander\nWiess Chair and Professor, Physics and Astronomy Professor, Electrical and Computer Engineering Professor, Materials Science and NanoEngineering Member, Ken Kennedy Institute\n\n\n\nAlessandro Alabastri\nAssistant Professor, Electrical and Computer Engineering Director, Applied Physics Graduate Program Member, Ken Kennedy Institute\n\n\n\nZhenpeng Qin\nAssociate Professor - Mechanical Engineering, UT Dallas\n\n\n\nSaranya Pullanchery\nAssistant Professor, Texas A&M University\n\n\n\nNonappa\nAssociate Professor, Material Chemistry, specifically Nanochemistry, Tampere University\n\n\n\nHannu Häkkinen\nProfessor, Vice Dean- University of Jyväskylä\n\n\n\nTim Liedl\nChair of Experimental Physics - Soft Condensed Matter, LMU Munich\n\n\n\nRobin Ras\nProfessor, Department of Applied Physics Head of Department, Department of Applied Physics Professor, Soft Matter and Wetting Aalto University\n\n\n\nMauri Kostiainen\nProfessor, Department of Bioproducts and Biosystems Professor, Biohybrid Materials Aalto University"
+    "text": "We are inviting applications for two fully funded PhD positions under the Joint PhD Program between BITS Pilani, India, and RMIT University, Australia. If you are passionate about material science and nanotechnology and want to shape solutions with global impact, we encourage you to apply."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "objectID": "opportunities.html#what-these-positions-offer",
+    "href": "opportunities.html#what-these-positions-offer",
+    "title": "OPPORTUNITIES",
+    "section": "What These Positions Offer",
+    "text": "What These Positions Offer\n\nProgram HighlightsResearch & Infrastructure\n\n\n\nJoint PhD Award: From both BITS Pilani and RMIT University.\nFinancial Support: Full tuition scholarships (RMIT), highly subsidized fees (BITS), and a stipend with health cover.\nGlobal Experience: Start at BITS and spend up to a year in Australia with return airfare included.\n\n\n\n\nSupervision: Co-supervision from faculty at both institutions.\nFacilities: Access to world-class research infrastructure.\nImpact: Aligned with RMIT’s impact-driven platforms across STEM and non-STEM domains.\nStructure: Clear 4-year progression with coursework and milestones."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV (October, 2025)",
-    "section": "",
-    "text": "CV (October, 2025)"
+    "objectID": "opportunities.html#application-details",
+    "href": "opportunities.html#application-details",
+    "title": "OPPORTUNITIES",
+    "section": "Application Details",
+    "text": "Application Details\n\n\n\n\n\n\nWarning\n\n\n\nLast date to Apply: March 28, 2026\nPlease ensure all documents are submitted before the cutoff to be considered for these positions.\n\n\n\nMore information and application link: Click here\nSearch with respective Project ID and title: Click here"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "The electronic properties of materials undergo remarkable transformations at the nanoscale. Metallic nanoparticles exhibit enhanced light–matter interactions through localized surface plasmon resonances, while atomically precise nanoclusters composed of a defined number of atoms display discrete, molecule-like optoelectronic characteristics. Integrating metallic, nonmetallic, and soft nanosystems into well-defined colloidal assemblies offers a powerful approach to engineer functional nanomaterials for multimodal applications. Our research aims to design and synthesize novel nanostructures through controlled nanoscale chemistry and to probe their behavior at the single-particle level using advanced spectroscopic techniques. We further seek to harness the emergent physicochemical properties of these nanostructures for applications in biosensing and molecular diagnostics."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "RESEARCH",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "PUBLICATION",
-    "section": "",
-    "text": "PUBLICATION\n\n\n\n\n\n\nThe Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers\nAmrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link\nAdv. Optical Mater 2025\nDOI: 10.1002/adom.202403002\nRead the Paper\n\n\n\n\n\n\n\n\nMorphology-Preserved Alloying in Anisotropic Gold Nanoparticles Using Atomically Precise Nanoclusters\nAmrita Chakraborty, Sujan Manna, Biswajit Mondal, Mohammad Bodiuzzaman, Ankit Nagar, Soham Chowdhury, Tanmayaa Nayak, Nonappa, and Thalappil Pradeep\nSmall 2025\nDOI: 10.1002/smll.202410784\nRead the Paper\n\n\n\n\n\n\n\n\nTunable reactivity of silver nanoclusters: a facile route to synthesize a range of bimetallic nanostructures\nAmrita Chakraborty, Megha Maria Stanley, Biswajit Mondal, Nonappa, Md Bodiuzzaman, Papri Chakraborty, M. P. Kannan and Thalappil Pradeep\nNanoscale 2023\nDOI: 10.1039/D2NR06350F\nRead the Paper\n\n\n\n\n\n\n\n\nAtomically precise nanocluster assemblies encapsulating plasmonic gold nanorods\nAmrita Chakraborty, Ann Candice Fernandez, Anirban Som, Biswajit Mondal, Ganapati Natarajan, Ganesan Paramasivam, Tanja Lahtinen, Hannu H¨akkinen, Nonappa, and Thalappil Pradeep\nAngew. Chem. Int. Ed.\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nNear-infrared chiral plasmonic microwires through precision assembly of gold nanorods on soft biotemplates\nAmrita Chakraborty, Nonappa, Biswajit Mondal, Kamalesh Chaudhari, Heikki Rekola, Ville Hynninen, Mauri Kostiainen, Robin Ras and Thalappil Pradeep\nJ. Phys. Chem. C\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nShell-Isolated Assembly of Atomically Precise Nanoclusters on Gold Nanorods for Integrated Plasmonic-Luminescent Nanocomposites\nAmrita Chakraborty, Harsh Dave, Biswajit Mondal, Esma Khatun, and Thalappil Pradeep\nJ. Phys. Chem. B\nDOI: 10.1021/acs.jpcb.1c10207\nRead the Paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "TEACHING",
-    "section": "",
-    "text": "TEACHING\n\nCurrent academic responsibilities and courses delivered.\n\nCHEM G552 Advanced Inorganic Chemistry\n Second Semester 2025-2026\n\n\nCHEM F111 General Chemistry\n Second Semester 2025-2026"
+    "text": "RESEARCH\n\n\n\n\n    \n\n        \n            Thrust areas\n        \n\n        \n            Nanocluster assembly and reaction\n        \n\n        \n            Scattering-based biosensing\n        \n\n        \n            Chemical tuning of chiral nanomaterials\n        \n\n        \n            Interface-specific non-linear spectroscopy\n        \n\n    \n\n\n\n    \n        ×"
   },
   {
     "objectID": "teaching.html#current-academic-responsibilities-and-courses-delivered.",
@@ -152,19 +159,5 @@
     "title": "TEACHING",
     "section": "Current academic responsibilities and courses delivered.",
     "text": "Current academic responsibilities and courses delivered.\n\nCHEM G552 Advanced Inorganic Chemistry\n Second Semester 2025-2026\n\n\nCHEM F111 General Chemistry\n Second Semester 2025-2026"
-  },
-  {
-    "objectID": "research_OLD.html",
-    "href": "research_OLD.html",
-    "title": "RESEARCH",
-    "section": "",
-    "text": "RESEARCH"
-  },
-  {
-    "objectID": "cv_1.html#prof.-amrita-chakraborty-ph.d.",
-    "href": "cv_1.html#prof.-amrita-chakraborty-ph.d.",
-    "title": "",
-    "section": "",
-    "text": "Assistant Professor Department of Chemistry Birla Institute of Technology & Science, Pilani (BITS Pilani) | Hyderabad Campus | India"
   }
 ]
