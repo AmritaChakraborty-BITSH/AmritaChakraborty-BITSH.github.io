@@ -7,6 +7,13 @@
     "text": "Team\n\n\nPI\n\n\n\n\n\n\n\nAmrita Chakraborty\nAssistant Professor\nPostdoctoral researcher: Texas A&M University, USA (Advisor: Prof. Saranya Pullanchery)\nPh.D.: Indian Institute of Technology Madras (Advisor: Prof. Thalappil Pradeep)\nBSc.-MSc.: Jadavpur University, India"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -14,11 +21,25 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Outreach",
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "OPPORTUNITIES",
     "section": "",
-    "text": "Outreach will go here. . ."
+    "text": "We are inviting applications for two fully funded PhD positions under the Joint PhD Program between BITS Pilani, India, and RMIT University, Australia. If you are passionate about material science and nanotechnology and want to shape solutions with global impact, we encourage you to apply."
+  },
+  {
+    "objectID": "opportunities.html#what-these-positions-offer",
+    "href": "opportunities.html#what-these-positions-offer",
+    "title": "OPPORTUNITIES",
+    "section": "What These Positions Offer",
+    "text": "What These Positions Offer\n\nProgram HighlightsResearch & Infrastructure\n\n\n\nJoint PhD Award: From both BITS Pilani and RMIT University.\nFinancial Support: Full tuition scholarships (RMIT), highly subsidized fees (BITS), and a stipend with health cover.\nGlobal Experience: Start at BITS and spend up to a year in Australia with return airfare included.\n\n\n\n\nSupervision: Co-supervision from faculty at both institutions.\nFacilities: Access to world-class research infrastructure.\nImpact: Aligned with RMIT’s impact-driven platforms across STEM and non-STEM domains.\nStructure: Clear 4-year progression with coursework and milestones."
+  },
+  {
+    "objectID": "opportunities.html#application-details",
+    "href": "opportunities.html#application-details",
+    "title": "OPPORTUNITIES",
+    "section": "Application Details",
+    "text": "Application Details\n\n\n\n\n\n\nWarning\n\n\n\nLast date to Apply: March 28, 2026\nPlease ensure all documents are submitted before the cutoff to be considered for these positions.\n\n\n\nMore information and application link: Click here\nSearch with respective Project ID and title: Click here"
   },
   {
     "objectID": "cv_1.html",
@@ -117,40 +138,5 @@
     "title": "Publication",
     "section": "",
     "text": "Publication\n\n\n\n\n\n\nThe Influence of the Supporting Substrate on Single-Particle Circular Differential Scattering of DNA Assembled Nanorod Dimers\nAmrita Chakraborty, Ojasvi Verma, Gopal Narmada Naidu, Mihir Dass, Zhenyang Jia, Christy F. Landes, Alessandro Alabastri, Peter Nordlander, Tim Liedl, Stephan Link\nAdv. Optical Mater 2025\nDOI: 10.1002/adom.202403002\nRead the Paper\n\n\n\n\n\n\n\n\nMorphology-Preserved Alloying in Anisotropic Gold Nanoparticles Using Atomically Precise Nanoclusters\nAmrita Chakraborty, Sujan Manna, Biswajit Mondal, Mohammad Bodiuzzaman, Ankit Nagar, Soham Chowdhury, Tanmayaa Nayak, Nonappa, and Thalappil Pradeep\nSmall 2025\nDOI: 10.1002/smll.202410784\nRead the Paper\n\n\n\n\n\n\n\n\nTunable reactivity of silver nanoclusters: a facile route to synthesize a range of bimetallic nanostructures\nAmrita Chakraborty, Megha Maria Stanley, Biswajit Mondal, Nonappa, Md Bodiuzzaman, Papri Chakraborty, M. P. Kannan and Thalappil Pradeep\nNanoscale 2023\nDOI: 10.1039/D2NR06350F\nRead the Paper\n\n\n\n\n\n\n\n\nAtomically precise nanocluster assemblies encapsulating plasmonic gold nanorods\nAmrita Chakraborty, Ann Candice Fernandez, Anirban Som, Biswajit Mondal, Ganapati Natarajan, Ganesan Paramasivam, Tanja Lahtinen, Hannu H¨akkinen, Nonappa, and Thalappil Pradeep\nAngew. Chem. Int. Ed.\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nNear-infrared chiral plasmonic microwires through precision assembly of gold nanorods on soft biotemplates\nAmrita Chakraborty, Nonappa, Biswajit Mondal, Kamalesh Chaudhari, Heikki Rekola, Ville Hynninen, Mauri Kostiainen, Robin Ras and Thalappil Pradeep\nJ. Phys. Chem. C\nDOI: 10.1002/anie.201802420\nRead the Paper\n\n\n\n\n\n\n\n\nShell-Isolated Assembly of Atomically Precise Nanoclusters on Gold Nanorods for Integrated Plasmonic-Luminescent Nanocomposites\nAmrita Chakraborty, Harsh Dave, Biswajit Mondal, Esma Khatun, and Thalappil Pradeep\nJ. Phys. Chem. B\nDOI: 10.1021/acs.jpcb.1c10207\nRead the Paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching will go here. . ."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Research"
-  },
-  {
-    "objectID": "opportunities.html",
-    "href": "opportunities.html",
-    "title": "OPPORTUNITIES",
-    "section": "",
-    "text": "We are inviting applications for two fully funded PhD positions under the Joint PhD Program between BITS Pilani, India, and RMIT University, Australia. If you are passionate about material science and nanotechnology and want to shape solutions with global impact, we encourage you to apply."
-  },
-  {
-    "objectID": "opportunities.html#what-these-positions-offer",
-    "href": "opportunities.html#what-these-positions-offer",
-    "title": "OPPORTUNITIES",
-    "section": "What These Positions Offer",
-    "text": "What These Positions Offer\n\nProgram HighlightsResearch & Infrastructure\n\n\n\nJoint PhD Award: From both BITS Pilani and RMIT University.\nFinancial Support: Full tuition scholarships (RMIT), highly subsidized fees (BITS), and a stipend with health cover.\nGlobal Experience: Start at BITS and spend up to a year in Australia with return airfare included.\n\n\n\n\nSupervision: Co-supervision from faculty at both institutions.\nFacilities: Access to world-class research infrastructure.\nImpact: Aligned with RMIT’s impact-driven platforms across STEM and non-STEM domains.\nStructure: Clear 4-year progression with coursework and milestones."
-  },
-  {
-    "objectID": "opportunities.html#application-details",
-    "href": "opportunities.html#application-details",
-    "title": "OPPORTUNITIES",
-    "section": "Application Details",
-    "text": "Application Details\n\n\n\n\n\n\nWarning\n\n\n\nLast date to Apply: March 28, 2026\nPlease ensure all documents are submitted before the cutoff to be considered for these positions.\n\n\n\nMore information and application link: Click here\nSearch with respective Project ID and title: Click here"
   }
 ]
