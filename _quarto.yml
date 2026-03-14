@@ -7,11 +7,34 @@ website:
   repo-url: "https://github.com/AmritaChakraborty/AmritaChakraborty.github.io"
   
   page-footer:
-    left: "© 2025. All rights reserved."
+    background: "#003153"
+    foreground: "white"
+    # LEFT: Contact Info (Wrapped in div for tight spacing)
+    left: |
+      <div style="text-align: left; font-size: 1em; line-height: 1.4;">
+        <h4>Contact</h4>
+        <b>Room No - C234</b><br>
+        <b>Birla Institute of Technology & Science, Pilani</b><br>
+        <b>Hyderabad Campus</b><br>
+        <b>Jawahar Nagar, Kapra Mandal, Dist.-Medchal, Pin-500078, Telangana, India</b><br>
+        <b>Email: [amrita.chakraborty@hyderabad.bits-pilani.ac.in](mailto:amrita.chakraborty@hyderabad.bits-pilani.ac.in)</b>
+      </div>
+    # CENTER: Copyright (Will be centered by CSS)
+    center: |
+      <span style="font-weight: bold;">© 2025. All rights reserved.</span>
+    # RIGHT: Visitor Counter + Credit (Stacked and Right Aligned)
+    right: |
+      <div style="display: flex; flex-direction: column; align-items: flex-end; justify-content: center;">
+        <a href="https://www.flagcounter.me/details/gma">
+          <img src="https://www.flagcounter.me/gma/" alt="Flag Counter" style="border:0; height: 100px; margin-bottom: 2px;">
+        </a><br>
+        <br>
+        <span style="font-size: 1em; opacity: 1;">Developed by: Amiya Biswas</span>
+      </div>
   
   navbar:
-    background: "#003153"   # Texas A&M maroon
-    foreground: "white"     # Navbar text color
+    background: "#003153"   
+    foreground: "white"     
     collapse: true
     
     left: 
@@ -21,12 +44,14 @@ website:
         file: research.qmd
       - text: "Publication"
         file: publication.qmd
+      - text: "Teaching"
+        file: teaching.qmd  
       - text: "Collaborators"
         file: collaborators.qmd
       - text: "Team"
         file: team.qmd
-      - text: "Outreach"
-        file: outreach.qmd
+      - text: "Opportunities"
+        file: opportunities.qmd
       - text: "CV"
         file: cv_1.qmd
         

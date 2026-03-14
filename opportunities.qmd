@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+---
+
+::: page-header
+# OPPORTUNITIES
+:::
+
+We are inviting applications for **two fully funded PhD positions** under the Joint PhD Program between **BITS Pilani, India**, and **RMIT University, Australia**. If you are passionate about material science and nanotechnology and want to shape solutions with global impact, we encourage you to apply.
+
+::::::: row
+:::: col-md-6
+::: opportunity-card
+[Project ID: BRJP26100082]{.project-id}
+
+**Intrinsically Chiral Metal Nanoparticles as a New Class of Enantioselective Nanozymes**
+
+<ul class="pi-list">
+
+<li>[BITS PI:]{.pi-label} Prof. Amrita Chakraborty</li>
+
+<li>[RMIT PI:]{.pi-label} Prof. Vipul Bansal</li>
+
+<li>[RMIT Co-PI:]{.pi-label} Prof. Rajesh Ramanathan</li>
+
+</ul>
+:::
+::::
+
+:::: col-md-6
+::: opportunity-card
+[Project ID: BRJP26100121]{.project-id}
+
+**Atomically Precise Nanocluster-assembled Plasmonic Nanoparticles: Next generation Catalysts for Energy Conversion**
+
+<ul class="pi-list">
+
+<li>[BITS PI:]{.pi-label} Prof. Amrita Chakraborty</li>
+
+<li>[BITS Co-PI:]{.pi-label} Prof. Sounak Roy</li>
+
+<li>[RMIT PI:]{.pi-label} Prof. Daniel Gomez</li>
+
+<li>[RMIT Co-PI:]{.pi-label} Prof. Ewan Blanch</li>
+
+</ul>
+:::
+::::
+:::::::
+
+## What These Positions Offer
+
+::: panel-tabset
+### Program Highlights
+
+-   **Joint PhD Award:** From both BITS Pilani and RMIT University.
+-   **Financial Support:** Full tuition scholarships (RMIT), highly subsidized fees (BITS), and a stipend with health cover.
+-   **Global Experience:** Start at BITS and spend up to a year in Australia with return airfare included.
+
+### Research & Infrastructure
+
+-   **Supervision:** Co-supervision from faculty at both institutions.
+-   **Facilities:** Access to world-class research infrastructure.
+-   **Impact:** Aligned with RMIT’s impact-driven platforms across STEM and non-STEM domains.
+-   **Structure:** Clear 4-year progression with coursework and milestones.
+:::
+
+## Application Details
+
+::: {.callout-warning .deadline-alert appearance="default" icon="true"}
+
+**Last date to Apply: March 28, 2026**
+
+Please ensure all documents are submitted before the cutoff to be considered for these positions.
+:::
+
+-   **More information and application link:** [Click here](https://bitspilaniedu.com/rmit/bitsrmitphdwebsite/default.aspx)
+-   **Search with respective Project ID and title:** [Click here](https://bitspilaniedu.com/rmit/bitsrmitphdwebsite/ProjectsResearch.aspx)
